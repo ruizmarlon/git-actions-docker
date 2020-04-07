@@ -1,6 +1,7 @@
 # action.yml
 name: 'Simple Nginx'
 description: 'simple nginx html'
+
 runs:
   using: 'docker'
   image: 'Dockerfile'
