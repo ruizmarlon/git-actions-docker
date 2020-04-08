@@ -7,4 +7,4 @@ jobs:
     steps:
     - name: build step
       id: hello
-      uses: ruizmarlon/action-docker@v1
+      uses: ruizmarlon/action-docker@v2
